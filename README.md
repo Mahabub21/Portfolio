@@ -140,13 +140,13 @@ A comprehensive hospital appointment and management system with role-based acces
 <div align="center">
 
 ### 🖥️ **Desktop View**
-![Desktop Hero](https://via.placeholder.com/800x450/f8fafc/2563eb?text=Hero+Section+-+Desktop)
+![Desktop Hero](https://mahabub21.github.io/Portfolio/)
 
 ### 📱 **Mobile View**
-![Mobile View](https://via.placeholder.com/350x600/f8fafc/2563eb?text=Mobile+Responsive+Design)
+![Mobile View](https://mahabub21.github.io/Portfolio/)
 
 ### 💼 **Projects Section**
-![Projects](https://via.placeholder.com/800x450/f8fafc/2563eb?text=Projects+Showcase)
+![Projects](https://mahabub21.github.io/Portfolio/)
 
 ### ⭐ **Reviews Section**
 ![Reviews](https://via.placeholder.com/800x450/f8fafc/2563eb?text=Interactive+Reviews+System)
@@ -291,4 +291,5 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 <div align="center">
 <sub>© 2024-2026 Mahabub Ahmed. All rights reserved.</sub>
+
 </div>
